@@ -1,2 +1,3 @@
-# Trivi-O-Clock
-Alarm clock like Duolingo!
+# Trivy-O-Clock
+
+Alarm clock like Duo-lingo!
